@@ -1,6 +1,6 @@
 class BasketballChatbot {
     constructor() {
-        this.apiEndpoint = "https://nexusflowaimcp.bestworks.cloud/api/v1/basketball/ask-question";
+        this.apiEndpoint = "https://arsalaanrasulbask.bestworks.cloud/api/v1/basketball/ask-question";
         this.chatMessages = document.getElementById('chatMessages');
         this.messageInput = document.getElementById('messageInput');
         this.sendButton = document.getElementById('sendButton');
